@@ -8,7 +8,7 @@ terraform {
     organization = "kloehfelm-demo"
 
     workspaces {
-      name = "tf-aws-web"
+      name = "tf-aws-web1"
     }
   }
 }
