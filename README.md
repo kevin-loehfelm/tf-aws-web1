@@ -10,9 +10,9 @@ No providers.
 
 The following Modules are called:
 
-### <a name="module_web1"></a> [web1](#module\_web1)
+### <a name="module_ha_web"></a> [ha\_web](#module\_ha\_web)
 
-Source: app.terraform.io/kloehfelm-demo/web-ha/aws
+Source: app.terraform.io/kloehfelm-demo/high-availability-website/aws
 
 Version: 0.0.7
 
@@ -34,7 +34,7 @@ Description: Application label
 
 Type: `string`
 
-Default: `"web1"`
+Default: `"web"`
 
 ## Outputs
 
