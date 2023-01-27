@@ -26,7 +26,15 @@ No required inputs.
 
 ## Optional Inputs
 
-No optional inputs.
+The following input variables are optional (have default values):
+
+### <a name="input_label"></a> [label](#input\_label)
+
+Description: Application label
+
+Type: `string`
+
+Default: `"web1"`
 
 ## Outputs
 
