@@ -14,7 +14,7 @@ The following Modules are called:
 
 Source: app.terraform.io/kloehfelm-demo/web-ha/aws
 
-Version: 0.0.6
+Version: 0.0.7
 
 ## Resources
 
