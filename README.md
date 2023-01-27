@@ -40,6 +40,18 @@ Default: `"web1"`
 
 The following outputs are exported:
 
-### <a name="output_web1"></a> [web1](#output\_web1)
+### <a name="output_dns_endpoint"></a> [dns\_endpoint](#output\_dns\_endpoint)
 
-Description: Web 1 Instances and DNS Endpoint
+Description: Endpoint for web service
+
+### <a name="output_instance_ids"></a> [instance\_ids](#output\_instance\_ids)
+
+Description: Instances for web service
+
+### <a name="output_instance_size"></a> [instance\_size](#output\_instance\_size)
+
+Description: Instance size for web service
+
+### <a name="output_label"></a> [label](#output\_label)
+
+Description: Resource label for web service

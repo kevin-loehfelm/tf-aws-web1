@@ -3,6 +3,6 @@ module "web1" {
   version = "0.0.7"
 
   label          = var.label
-  instance_count = 3
+  instance_count = 0
   size           = "small"
 }
